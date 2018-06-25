@@ -1,14 +1,14 @@
-about-me
+About-me
 ========
 
-于江水个人网页简历的源代码。在线地址：<http://yujiangshui.github.io/about-me/>
+The source code of Yu Jiang's personal webpage resume. Online address:<http://yujiangshui.github.io/about-me/>
 
-就是一个单页，编写了一些函数和使用了一些 CSS3 的效果，你可以直接查看本项目的源代码。
+Is a single page, write some functions and use some CSS3 effects, you can directly view the project's source code.
 
-##使用条款
+##Terms of use
 
-**请不要在任何场合使用此项目中本人的照片，讨厌！**
+** Please do not use this item's own photo on any occasion, hate! **
 
-你可以自由的借鉴、改造、复制、使用本人在项目中所写的函数等等。
+You are free to use, modify, copy, use the functions you wrote in your project, and so on.
 
-但是，请不要修改几个字、图片、颜色，然后告诉别人这是你的作品。
+However, please do not modify a few words, pictures, colors, and tell others that this is your work.
